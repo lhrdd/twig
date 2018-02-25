@@ -1,0 +1,2 @@
+var iz="img[src*=IfptKTJ]";var eet="<div>—</div><a href='/community/node/111280'><img src='https://i.imgur.com/wslxoPE.png'/></a><img src='https://i.imgur.com/0nux0Qq.png'/><img src='https://i.imgur.com/3MZRuT7.png'/><a href='/community/node/111440'><img src='https://i.imgur.com/SGrYWDz.png'/></a>";window.addEventListener('load',era);function era(){//JS by Uitleger, exclusively for Vanilliana. Do not copy. 
+var set=document.querySelectorAll(iz);for(var x=0;x<set.length;x++){set[x].parentNode.innerHTML=eet}}
